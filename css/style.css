@@ -1,11 +1,15 @@
-.even{
+.even{color:red;}
+.odd{color:blue;}
+
+#setenta{
 	color:red;
-
-	
-
 }
-.odd{
-
-	color:blue;
+#ochenta{
 	
+	color:blue;
+}
+
+#noventa{
+
+	color:green;
 }
